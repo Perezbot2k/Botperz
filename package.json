@@ -1,7 +1,7 @@
 {
     "nombre" : "PEREZ-BOT-MD"
     "versión" : "1.0.0" ,
-    "description": "SUSCRÍBETE AL CANAL OFICIAL DE HADES-BOT",
+    "description": "SUSCRÍBETE AL CANAL OFICIAL",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -16,7 +16,7 @@
     },
     "homepage": "https://github.com/OFC-YOVANI/HADES-BOT-MD.git",
     "author": {
-        "name": "OFC-YOVANI"
+        "name": "PEREZ XD"
     },
     "repository": {
         "type": "git",
